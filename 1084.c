@@ -1,15 +1,3 @@
-/*
-* Student ID: 201316928
-* Student Name: Ethan Anderson
-* Email: E.Anderson3@student.liverpool.ac.uk
-*
-* User: sgeande2
-*
-* Problem ID: 1084
-* RunID: 39704
-* Result: Accepted
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 int main(void){

@@ -1,14 +1,3 @@
-/*
-* Student ID: 201316928
-* Student Name: Ethan Anderson
-* Email: E.Anderson3@student.liverpool.ac.uk
-*
-* User: sgeande2
-*
-* Problem ID: 1014
-* RunID: 29672
-* Result: Accepted
-*/
 #include <stdio.h>
 
 /*define pi*/

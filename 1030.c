@@ -1,14 +1,3 @@
-/*
-* Student ID: 201316928
-* Student Name: Ethan Anderson
-* Email: E.Anderson3@student.liverpool.ac.uk
-*
-* User: sgeande2
-*
-* Problem ID: 1030
-* RunID: 29659
-* Result: Accepted
-*/
 #include <stdio.h>
 #include <math.h>
 int findNthNumberAfterDecimal(double x, int n){
